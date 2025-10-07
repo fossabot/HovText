@@ -45,6 +45,7 @@ The full documentation for how to use this application is available on the HovTe
 ## Screenshots
 
 ![History list](https://hovtext.com/documentation/images/HistoryList0.jpg?)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2FHovText.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2FHovText?ref=badge_shield)
 
 ![Settings](https://hovtext.com/documentation/images/General.jpg?)
 
@@ -66,3 +67,7 @@ The full documentation for how to use this application is available on the HovTe
 
 ![About](https://hovtext.com/documentation/images/About.jpg?)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2FHovText.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2FHovText?ref=badge_large)
